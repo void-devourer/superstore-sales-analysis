@@ -49,9 +49,11 @@ Sample Superstore Sales Dataset — 9,994 orders across 4 years
 
 ## Project Structure
 superstore-sales-analysis/
-│
+
 ├── data/                        # Dataset
+
 ├── superstore_analysis.ipynb    # Full analysis notebook
+
 └── app.py                       # Streamlit dashboard
 
 ## How to Run
