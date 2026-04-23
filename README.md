@@ -48,3 +48,17 @@ for a $2.29M revenue superstore.
 Sample Superstore Sales Dataset — 9,994 orders across 4 years
 
 ## Project Structure
+superstore-sales-analysis/
+│
+├── data/                        # Dataset
+├── superstore_analysis.ipynb    # Full analysis notebook
+└── app.py                       # Streamlit dashboard
+
+## How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Author
+**Piyush Kumar** — Mechanical Engineering, IIT Goa
